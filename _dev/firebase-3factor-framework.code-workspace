@@ -2,15 +2,6 @@
   "folders": [
     {
       "path": ".."
-    },
-    {
-      "path": "../functions"
-    },
-    {
-      "path": "../ui"
-    },
-    {
-      "path": "../ui/public"
     }
   ],
   "settings": {
