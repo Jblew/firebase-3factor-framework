@@ -675,7 +675,7 @@
 											"left": 375,
 											"top": 147,
 											"width": 117.369140625,
-											"height": 22,
+											"height": 11,
 											"text": "«modelLibrary» model",
 											"wordWrap": true
 										},
@@ -711,7 +711,7 @@
 									"left": 370,
 									"top": 140,
 									"width": 127.369140625,
-									"height": 34,
+									"height": 23,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFy3XaMlDV83IQ="
 									},
@@ -917,9 +917,9 @@
 										"$ref": "AAAAAAFy3XpKYTXbtns="
 									},
 									"font": "Arial;11;0",
-									"left": 86.0615234375,
+									"left": 82.38232421875,
 									"top": 105,
-									"width": 109.83447265625,
+									"width": 102.72314453125,
 									"height": 11,
 									"text": "«modelLibrary» model"
 								},
@@ -932,7 +932,7 @@
 									"font": "Arial;11;1",
 									"left": 55,
 									"top": 105,
-									"width": 26.0615234375,
+									"width": 22.38232421875,
 									"height": 11,
 									"text": "class"
 								}
@@ -1461,11 +1461,11 @@
 										"$ref": "AAAAAAFy3X5uhTYgUZI="
 									},
 									"font": "Arial;11;0",
-									"left": 430,
-									"top": 30,
-									"width": 251,
+									"left": 20,
+									"top": 10,
+									"width": 337.39404296875,
 									"height": 40,
-									"text": "Format:\n/tasks/{uid}/{type}/{taskId}/{state}"
+									"text": "Format:\n/users/{uid}/jobs/{type}/tasks/{taskId}/[waiting|running|failed|done]"
 								},
 								{
 									"_type": "UMLStateView",
